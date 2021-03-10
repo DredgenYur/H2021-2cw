@@ -1,0 +1,4 @@
+Fichier a supprimer
+Modification de text.txt dans la branche branch2
+Je modifie le texte dans GitHub
+allo
